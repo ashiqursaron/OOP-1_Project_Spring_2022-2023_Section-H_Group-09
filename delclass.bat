@@ -1,0 +1,1 @@
+DEL *.class && DEL HMS\*.class && DEL model\*.class
