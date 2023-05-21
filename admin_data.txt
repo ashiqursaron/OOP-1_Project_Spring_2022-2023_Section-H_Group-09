@@ -1,18 +1,1 @@
-             ## Added by Admin ##
-User Name : saron
-Password : saron
-Email : saron
-Time & Date : 22:17 PM, 14/05/2023
-===============================================
-             ## Added by Admin ##
-User Name : zenin
-Password : zenin
-Email : zenin@gmail.com
-Time & Date : 22:26 PM, 15/05/2023
-===============================================
-             ## Added by Admin ##
-User Name : admin
-Password : admin
-Email : admin@gmail.com
-Time & Date : 06:02 AM, 20/05/2023
-===============================================
+
